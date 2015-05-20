@@ -1,0 +1,5 @@
+C:\clientserverapp\SafeTcp\XBase.XSocket\bin\Release\XBase.XSocket.dll
+C:\clientserverapp\SafeTcp\XBase.XSocket\bin\Release\XBase.XSocket.pdb
+C:\clientserverapp\SafeTcp\XBase.XSocket\obj\Release\XBase.XSocket.csprojResolveAssemblyReference.cache
+C:\clientserverapp\SafeTcp\XBase.XSocket\obj\Release\XBase.XSocket.dll
+C:\clientserverapp\SafeTcp\XBase.XSocket\obj\Release\XBase.XSocket.pdb
