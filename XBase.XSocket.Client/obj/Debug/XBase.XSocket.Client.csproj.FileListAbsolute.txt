@@ -1,1 +1,0 @@
-C:\clientserverapp\SafeTcp\XBase.XSocket.Client\bin\Debug\XBase.XSocket.Client.exe.config
